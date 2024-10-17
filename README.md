@@ -1,4 +1,6 @@
 # SmithForever
 Unlimited stamina
-Original:
+
+Original mod:
+
 https://github.com/calsev/bannerlord_smith_forever
