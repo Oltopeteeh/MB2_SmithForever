@@ -1,0 +1,2 @@
+# SmithForever
+Unlimited stamina
